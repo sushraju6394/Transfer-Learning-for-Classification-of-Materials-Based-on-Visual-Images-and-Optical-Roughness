@@ -22,11 +22,11 @@ accuracy for the fusion network was 98.18%.
  - [Technische Universität Chemnitz](https://www.tu-chemnitz.de/informatik/mc/index.php.en)
  - [Innowep](https://innowep.com/)
  
- ### Installation
+ ## Installation
  Anaconda environment needs to be installed on either windows or linux
  https://docs.anaconda.com/anaconda/install/windows/
  
- #### Configurations
+ ## Configurations
  1. Hardware configuration:
     - Procesor - Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz, 2.71 GHz, Lenovo Thinkpad laptop
     - RAM - 16.0 GB
@@ -47,7 +47,7 @@ accuracy for the fusion network was 98.18%.
       - pandas 1.2.4
       - matplotlib 3.3.4
       - scikit-learn 0.24.1
-  ##### Dataset
+  ## Dataset
   The dataset for classification was created using Innowep's TRACEiT profilometer which cannot be made public.
   A similar material dataset can be downloaded at [https://zeus.lmt.ei.tum.de/downloads/texture/]. TUM material dataset was also used in the project.
   
